@@ -148,6 +148,17 @@ button:hover {
   display: none;
 }
 
+.participants {
+  margin-top: 10px;
+  padding-left: 20px;
+  font-size: 14px;
+  color: #555;
+}
+
+.participants li {
+  margin-bottom: 5px;
+}
+
 footer {
   text-align: center;
   margin-top: 30px;
